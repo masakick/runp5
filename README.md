@@ -1,1 +1,1 @@
-# running enviroment p5.js
+# running environment p5.js via scrapbox api
